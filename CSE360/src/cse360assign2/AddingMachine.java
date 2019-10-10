@@ -1,7 +1,7 @@
 /*
  * Name: Kendall Timothy
  * ID: 1202169440
- * Class ID: CSE 360
+ * Class ID: CSE 360 (85141)
  * Assignment: 2
  * Description: 
  */
